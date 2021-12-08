@@ -1,0 +1,98 @@
+Script started on Wed Dec  8 18:01:45 2021
+%                                                                               ]7;file://Jessicas-MacBook-Pro.local/Users/jessicawilliamsjessicawilliams@Jessicas-MacBook-Pro ~ % [?2004hmkfir     dir fi oldr er1[?2004l
+mkdir: folder1: File exists
+%                                                                               ]7;file://Jessicas-MacBook-Pro.local/Users/jessicawilliamsjessicawilliams@Jessicas-MacBook-Pro ~ % [?2004hmkdir folder2[?2004l
+mkdir: folder2: File exists
+%                                                                               ]7;file://Jessicas-MacBook-Pro.local/Users/jessicawilliamsjessicawilliams@Jessicas-MacBook-Pro ~ % [?2004htu ouch file1.txt[?2004l
+%                                                                               ]7;file://Jessicas-MacBook-Pro.local/Users/jessicawilliamsjessicawilliams@Jessicas-MacBook-Pro ~ % [?2004htiu  ouh ch file2.txt[?2004l
+%                                                                               ]7;file://Jessicas-MacBook-Pro.local/Users/jessicawilliamsjessicawilliams@Jessicas-MacBook-Pro ~ % [?2004hcd folder1[?2004l
+%                                                                               ]7;file://Jessicas-MacBook-Pro.local/Users/jessicawilliams/folder1jessicawilliams@Jessicas-MacBook-Pro folder1 % [?2004hls[?2004l
+%                                                                               ]7;file://Jessicas-MacBook-Pro.local/Users/jessicawilliams/folder1jessicawilliams@Jessicas-MacBook-Pro folder1 % [?2004hpwd[?2004l
+/Users/jessicawilliams/folder1
+%                                                                               ]7;file://Jessicas-MacBook-Pro.local/Users/jessicawilliams/folder1jessicawilliams@Jessicas-MacBook-Pro folder1 % [?2004hls folder1[?2004l
+ls: folder1: No such file or directory
+%                                                                               ]7;file://Jessicas-MacBook-Pro.local/Users/jessicawilliams/folder1jessicawilliams@Jessicas-MacBook-Pro folder1 % [?2004hls[?2004l
+%                                                                               ]7;file://Jessicas-MacBook-Pro.local/Users/jessicawilliams/folder1jessicawilliams@Jessicas-MacBook-Pro folder1 % [?2004hmv file  1.txt fole der1[?2004l
+mv: rename file1.txt to folder1: No such file or directory
+%                                                                               ]7;file://Jessicas-MacBook-Pro.local/Users/jessicawilliams/folder1jessicawilliams@Jessicas-MacBook-Pro folder1 % [?2004hcd[?2004l
+%                                                                               ]7;file://Jessicas-MacBook-Pro.local/Users/jessicawilliamsjessicawilliams@Jessicas-MacBook-Pro ~ % [?2004hl pwd[?2004l
+/Users/jessicawilliams
+%                                                                               ]7;file://Jessicas-MacBook-Pro.local/Users/jessicawilliamsjessicawilliams@Jessicas-MacBook-Pro ~ % [?2004hls[?2004l
+3.txt
+Applications
+Black
+Desktop
+Documents
+Downloads
+Library
+Movies
+Music
+PhpstormProjects
+Pictures
+Public
+TERM=dumb
+app.js
+black-codher-html-practice-1
+file
+file.txt
+file1.txt
+file2.txt
+file3.txt
+folder1
+folder2
+node
+oTERM=dumb
+output.TERM=dumb
+output.txt
+output.txtTERM=dumb
+output.txtTERM=dumb script output.txtTERM=dumb
+output.txtmk
+output.txtutput.txtTERM=dumb
+%                                                                               ]7;file://Jessicas-MacBook-Pro.local/Users/jessicawilliamsjessicawilliams@Jessicas-MacBook-Pro ~ % [?2004hmv  file.[?2004l
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+%                                                                               ]7;file://Jessicas-MacBook-Pro.local/Users/jessicawilliamsjessicawilliams@Jessicas-MacBook-Pro ~ % [?2004hmv file1.txt folder1[?2004l
+%                                                                               ]7;file://Jessicas-MacBook-Pro.local/Users/jessicawilliamsjessicawilliams@Jessicas-MacBook-Pro ~ % [?2004hmv file2.txt folder2[?2004l
+%                                                                               ]7;file://Jessicas-MacBook-Pro.local/Users/jessicawilliamsjessicawilliams@Jessicas-MacBook-Pro ~ % [?2004hcd folder1[?2004l
+%                                                                               ]7;file://Jessicas-MacBook-Pro.local/Users/jessicawilliams/folder1jessicawilliams@Jessicas-MacBook-Pro folder1 % [?2004hls  [?2004l
+file1.txt
+%                                                                               ]7;file://Jessicas-MacBook-Pro.local/Users/jessicawilliams/folder1jessicawilliams@Jessicas-MacBook-Pro folder1 % [?2004hpwd[?2004l
+/Users/jessicawilliams/folder1
+%                                                                               ]7;file://Jessicas-MacBook-Pro.local/Users/jessicawilliams/folder1jessicawilliams@Jessicas-MacBook-Pro folder1 % [?2004hcd[?2004l
+%                                                                               ]7;file://Jessicas-MacBook-Pro.local/Users/jessicawilliamsjessicawilliams@Jessicas-MacBook-Pro ~ % [?2004hrm file3.txt[?2004l
+%                                                                               ]7;file://Jessicas-MacBook-Pro.local/Users/jessicawilliamsjessicawilliams@Jessicas-MacBook-Pro ~ % [?2004hls[?2004l
+3.txt
+Applications
+Black
+Desktop
+Documents
+Downloads
+Library
+Movies
+Music
+PhpstormProjects
+Pictures
+Public
+TERM=dumb
+app.js
+black-codher-html-practice-1
+file
+file.txt
+folder1
+folder2
+node
+oTERM=dumb
+output.TERM=dumb
+output.txt
+output.txtTERM=dumb
+output.txtTERM=dumb script output.txtTERM=dumb
+output.txtmk
+output.txtutput.txtTERM=dumb
+%                                                                               ]7;file://Jessicas-MacBook-Pro.local/Users/jessicawilliamsjessicawilliams@Jessicas-MacBook-Pro ~ % [?2004hexit[?2004l
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+Deleting expired sessions...none found.
+
+Script done on Wed Dec  8 19:28:19 2021
